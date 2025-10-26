@@ -127,7 +127,7 @@ const data = await response.json();
 | 响应时间 | ~800ms | ~1200ms | ~1000ms |
 | 免费额度 | **无限制** | 50条/3小时 | 30条/3小时 |
 | 模型种类 | **20+** | 5 | 3 |
-| 月费用 | **¥0-199** | ¥140+ | ¥140+ |
+| 月费用 | **¥0-68** | ¥140+ | ¥140+ |
 | API访问 | ✅ | ✅ | 受限 |
 
 ## 💡 使用场景
@@ -207,23 +207,14 @@ session = ChatSession(
 - 🔧 代码贡献
 
 ### 联系我们
-- **Discord**：[加入我们的服务器](https://discord.gg/chatgpt-cn)
-- **微博**：[@chatgptcn](https://weibo.com/chatgptcn)
-- **邮箱**：support@chatgpt-cn.pro
+- *QQ**：626878285
 
 ## 📝 使用条款
 
 本项目遵循 MIT 许可证 - 详见 [LICENSE](LICENSE) 文件。
 
-## ⭐ Star历史
 
-[![Star History Chart](https://api.star-history.com/svg?repos=chatgpt-cn/chatgpt-cn&type=Date)](https://star-history.com/#chatgpt-cn/chatgpt-cn&Date)
-
----
-
-<div align="center">
-
-### 🎁 限时福利
+### 🎁 每周限时福利
 
 **🔥 本周免费高级模型：GPT-5-Chat**
 
