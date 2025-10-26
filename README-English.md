@@ -127,7 +127,7 @@ const data = await response.json();
 | Response Time | ~800ms | ~1200ms | ~1000ms |
 | Rate Limits (Free) | **Unlimited** | 50/3hrs | 30/3hrs |
 | Model Variety | **20+** | 5 | 3 |
-| Monthly Cost | **$0-29** | $20+ | $20+ |
+| Monthly Cost | **$0-6** | $20+ | $20+ |
 | API Access | ✅ | ✅ | Limited |
 
 ## 💡 Use Cases
